@@ -1,0 +1,23 @@
+<?php
+return [
+    "inventory" => "الجرد" ,
+    "stock_inventory" => "جرد المخازن" ,
+    "create_new_inventory" => "إنشاء فترة الجرد",
+    "inventory_start_date" => "تاريخ البدء" ,
+    "inventory_end_date" => "تاريخ الغلق" ,
+    "inventory_branch" => "الفرع" ,
+    "filtersLabel" => "التصفية" ,
+    "show_stock_inventory" => "عرض الجرد السابق",
+    "operation_number" => "رقم العملية" ,
+    "status" => "الحالة",
+    "branch" => "الفرع",
+    "options" => "خيارات",
+    "products_inventory" => "جرد المنتجات" ,
+    "product_name" => "الأسم" ,
+    "product_barcode" => "باركود" ,
+    "current_amount" => "الكمية الحالية" ,
+    "amount_after_inventory" => "كمية بعد الجرد" ,
+    "amount_difference" => "فرق العدد" ,
+    "products_reports" => "تقارير الجرد" ,
+    "products_reports_increase" => "تقارير الزيادة",
+];
